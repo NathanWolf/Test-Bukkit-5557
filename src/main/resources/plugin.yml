@@ -1,0 +1,6 @@
+name: Test-Bukkit-5557
+main: com.elmakers.mine.bukkit.plugins.bukkit5557.Test5557Plugin
+version: 1.0
+website: http://mine.elmakers.com
+author: NathanWolf
+description : A plugin to unit teset Bukkit5557
